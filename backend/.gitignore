@@ -1,0 +1,27 @@
+myvenv/
+.venv/
+__pycache__/
+.env
+qdrant_db/
+*.pyc
+
+# Cloned repositories
+backend/repositories/
+
+# Local vector database
+qdrant_db/
+
+# Environment
+.env
+myvenv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
